@@ -21,17 +21,17 @@ DAX (Data Analysis Expressions) – For creating calculated fields and KPIs.
 ## 📊 Dashboard Features
 1. Key Performance Indicators (KPIs):
 
-Total Sales Revenue
+Total Sales Revenue : $4.135645M
 
-Total Quantity Sold
+Total Quantity Sold : 16K
 
-Total Cost
+Total Cost : 3M
 
-Profit
+Profit : $959.3K
 
-Number of Store Locations
+Number of Store Locations : 18
 
-Number of Sales Transactions
+Number of Sales Transactions : 2.935K
 
 2. Country-Level Insights:
 
@@ -52,7 +52,7 @@ Customer Payment Type by Age Group (Adult, Senior, Young)
 ---
 
 ## 🌍 Country-Wise Summary Insights
-🇨🇦 Canada
+# Canada
 
 Revenue: $698.04K | Profit: $160.81K
 
@@ -62,7 +62,7 @@ Highest Sales Representative: Michael Parker (5.8K)
 
 Adults preferred Mobile Payment, while Seniors showed higher Cash usage.
 
-🇨🇳 China
+# China
 
 Revenue: $681.33K | Profit: $161.69K
 
@@ -72,7 +72,7 @@ Leading Sales Representative: Kyle Hughes (5.1K)
 
 Credit Card payments were most popular among Seniors and Young customers.
 
-🇮🇳 India
+# India
 
 Revenue: $685.38K | Profit: $159.03K
 
@@ -82,7 +82,7 @@ Leading Sales Representative: Holly Johnson (4.9K)
 
 Mobile Payment dominated among Adults, while Cash was preferred by the Young group.
 
-🇳🇬 Nigeria
+# Nigeria
 
 Revenue: $669.58K | Profit: $151.77K
 
@@ -92,7 +92,7 @@ Top Sales Representative: Jermaine Charles (4.9K)
 
 Cash payments are still widely used, particularly by Young customers.
 
-🇬🇧 United Kingdom
+# United Kingdom
 
 Revenue: $704.67K | Profit: $159.44K
 
@@ -102,7 +102,7 @@ Leading Sales Representative: Jennifer Miller (6.9K)
 
 Credit Card is the most preferred payment method across all age groups.
 
-🇺🇸 United States
+# United States
 
 Revenue: $696.64K | Profit: $166.57K
 
